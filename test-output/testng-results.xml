@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="70675" started-at="2018-04-12T23:46:18Z" finished-at="2018-04-12T23:47:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="70675" started-at="2018-04-12T23:46:18Z" finished-at="2018-04-12T23:47:29Z">
+      <class name="wmrtTestNG.NewTestNG">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:wmrtTestNG.NewTestNG@4f0f2942]" name="beforeTest" is-config="true" duration-ms="27" started-at="2018-04-12T23:46:18Z" finished-at="2018-04-12T23:46:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforMethod()[pri:0, instance:wmrtTestNG.NewTestNG@4f0f2942]" name="beforMethod" is-config="true" duration-ms="12590" started-at="2018-04-12T23:46:18Z" finished-at="2018-04-12T23:46:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforMethod -->
+        <test-method status="PASS" signature="testBody()[pri:0, instance:wmrtTestNG.NewTestNG@4f0f2942]" name="testBody" duration-ms="57348" started-at="2018-04-12T23:46:31Z" finished-at="2018-04-12T23:47:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBody -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:wmrtTestNG.NewTestNG@4f0f2942]" name="afterTest" is-config="true" duration-ms="663" started-at="2018-04-12T23:47:28Z" finished-at="2018-04-12T23:47:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- wmrtTestNG.NewTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
